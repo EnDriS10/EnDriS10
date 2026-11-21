@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy César 👋</h1>
 <p align="center">
-  Estudiante de Física · física computacional · olimpiadas de química ⚗️
+  Estudiante de Física
 </p>
 
 <p align="center">
